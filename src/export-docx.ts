@@ -1,6 +1,6 @@
 import { Notice, TFile } from 'obsidian';
 import { md2docx } from '@adobe/helix-md2docx';
-import stylesXML from '../../node_modules/@adobe/helix-md2docx/src/mdast2docx/template/word/styles.xml';
+import stylesXML from '@adobe/helix-md2docx/src/mdast2docx/template/word/styles.xml';
 import type ExportToDocxPlugin from './main';
 import { t } from './i18n';
 
