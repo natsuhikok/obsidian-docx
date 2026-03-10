@@ -4,5 +4,6 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Export the current Markdown note to a DOCX file.",
+	"author": "natsuhiko",
 	"isDesktopOnly": true
 }
